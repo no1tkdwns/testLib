@@ -1,0 +1,22 @@
+{
+  "name": "TestLib",
+  "version": "0.1.0",
+  "summary": "A short description of TestLib.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/sjpark/TestLib",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "sjpark": "sjpark@avatye.com"
+  },
+  "source": {
+    "git": "https://github.com/sjpark/TestLib.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "Sources/TestLib/**/*"
+}
