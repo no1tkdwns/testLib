@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "testlib",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/no1tkdwns/testLib",
+      "state" : {
+        "branch" : "main",
+        "revision" : "5429de2f394c1cb4c8c4e3a66ab2fd1665b35a55"
+      }
+    }
+  ],
+  "version" : 2
+}
